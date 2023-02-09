@@ -5,7 +5,7 @@
 
 Esse projeto foi desenvolvido através do [bootcamp HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer) oferecido pela [Digital Innovation One - DIO](https://digitalinnovation.one/). O projeto teve como objetivo recriar a página inicial do Instagram, que consiste na página de login. No seu desenvolvimento se usou HTML e CSS, onde na configuração do CSS foi utilizado para entender o seu conceito e uso a propriedade Flexbox para o posicionamento dos elementos e a funcionalidade de responsividade para que o layout do site se posicione adequadamente em telas de computador, tablet (1024px) e celulares (650px).
 
-O resultado da aplicação pode ser acessado através da seguinte URL: [https://frantend.github.io/instagram-page-login](https://frantend.github.io/instagram-page-login)
+O resultado da aplicação pode ser acessado através da seguinte URL: [https://frantend.github.io/instagram-page-login](https://frantend.github.io/instagram-page-login/)
 
 ## 📋 Tecnologias 
 
